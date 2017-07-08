@@ -10,3 +10,4 @@
 
 ### 動作確認
 以下のサイトで確認することができる。
+https://github.com/nshhhin/Images/blob/master/sampleBlog_demo2.png
